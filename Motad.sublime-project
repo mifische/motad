@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"name": "Motad",
+			"path": "E:\\Haxe/Motad"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel",
+			"path": "E:\\Haxe\\haxe\\lib\\flixel/3,3,11/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel Addons",
+			"path": "E:\\Haxe\\haxe\\lib\\flixel-addons/git/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Haxe",
+			"path": "E:\\Haxe\\haxe\\std"
+		}
+	]
+}
